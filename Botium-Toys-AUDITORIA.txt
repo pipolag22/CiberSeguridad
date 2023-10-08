@@ -1,0 +1,23 @@
+Botium Toys: Alcance y objetivos de la auditoría 
+ 
+
+Resumen: Realizar una auditoría del programa de ciberseguridad de Botium Toys con el propósito de alinear las políticas comerciales actuales con las prácticas recomendadas y los estándares de la industria. El objetivo de la auditoría es proporcionar recomendaciones de mitigación para las vulnerabilidades encontradas que sean clasificadas como de “alto riesgo” y presentar una estrategia general para mejorar la postura de seguridad de la organización. El equipo de auditoría se encargará de documentar los hallazgos, crear soluciones y comunicarse con las partes interesadas.
+ 
+Alcance: 
+La auditoría interna de TI de Botium Toys analizará lo siguiente:
+
+●	Permisos de usuario actuales creados en los siguientes sistemas: contabilidad, detección de puntos de conexión, cortafuegos (firewalls), sistema de detección de intrusiones, herramienta de gestión de eventos e información de seguridad (SIEM).
+●	Controles actuales implementados en los siguientes sistemas: contabilidad, detección de puntos de conexión, cortafuegos (firewalls), sistema de detección de intrusiones, herramienta de gestión de eventos e información de seguridad (SIEM).
+●	Procedimientos y protocolos actuales establecidos para los siguientes sistemas: contabilidad, detección de puntos de conexión, cortafuegos (firewall), sistema de detección de intrusiones, herramienta de gestión de eventos e información de seguridad (SIEM).
+●	Comprueba si los permisos, controles, procedimientos y protocolos actuales de las usuarias y los usuarios están alineados con los requisitos de cumplimiento normativo necesarios.
+●	Verifica si la tecnología actual está debidamente registrada, tanto el hardware como el acceso al sistema.
+   
+Objetivos: 
+Los objetivos de la auditoría interna de TI de Botium Toys son los siguientes:
+
+●	Cumplir con el Marco de Ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST). 
+●	Establecer un proceso más efectivo para garantizar el cumplimiento de los sistemas. 
+●	Fortalecer los controles del sistema.
+●	Implementar el principio de mínimo privilegio en la gestión de credenciales o tarjetas de identificación de usuarios/as. 
+●	Establecer políticas y procedimientos claros, que incluyan manuales de estrategia. 
+●	Asegurarse el acatamiento de los requisitos de cumplimiento normativo. 
